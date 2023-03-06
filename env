@@ -1,0 +1,3 @@
+API_KEY=cirilb
+DATABASE_URL=postgres://cirilb:password@localhost/mydatabase
+DEBUG=False
