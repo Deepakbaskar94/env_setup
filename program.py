@@ -1,3 +1,5 @@
+# pip3 install python-dotenv
+# keep the variable in .env file
 from dotenv import load_dotenv
 import os
 
